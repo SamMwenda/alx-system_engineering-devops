@@ -14,6 +14,8 @@ Task 5 Execute 5-execute contains a script that give execution permissions to he
 
 Task 6 Multiple permissions 6-multiple_permissions contains a script that give execute permission to owner and group owner and read permission to other users
 
-Task 7 Everybody 7-everybody contains a script that give execute permision to owner group owner and users
+Task 7 Everybody 7-everybody contains a script that give execute permision to owner group owner and users on the file hello
 
+Task 8 James Bond 8-John_Bond contains a script that gives owner no permission all, group no permission at all, other users all the permission
 
+ 
