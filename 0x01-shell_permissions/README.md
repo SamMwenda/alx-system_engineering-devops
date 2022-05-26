@@ -11,3 +11,7 @@ Task 3 New owner 3-new_owner contains a script that changes the owner of the fil
 Task 4 Empty! 4-empty contains a script that creates a new empty file empty
 
 Task 5 Execute 5-execute contains a script that give execution permissions to hello
+
+Task 6 Multiple permissions 6-multiple_permissions contains a script that give execute permission to owner and group owner and read permission to other users
+
+
