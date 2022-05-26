@@ -1,3 +1,5 @@
 These is the task on shell permissions
 
-Task 0 My name is bettythe file 0-iam_betty contains a script to change the user to betty
+Task 0 My name is betty the file 0-iam_betty contains a script to change the user to betty
+
+Task 1 Who am I ? the file 1-who_am_i contains a script that prints the name of the effective user
