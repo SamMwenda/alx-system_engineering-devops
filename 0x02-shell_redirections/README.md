@@ -1,4 +1,5 @@
 Shell Redirection task
 
-Task 1 Hello World - script   that prints hello world
+Task 1 Hello World - script that prints hello world
 
+Task 2 Confused Smiley - script that prints a confused smiley
